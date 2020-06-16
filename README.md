@@ -1,2 +1,2 @@
 # Assignment
-assignment 1 for voursera 
+assignment 1 for coursera 
